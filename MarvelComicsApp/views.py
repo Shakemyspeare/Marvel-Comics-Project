@@ -72,7 +72,7 @@ def subscriber_delete_view(request, pk):
 # varibales used for the hash_params function and results_view
 timestamp = datetime.now().strftime('%y-%m-%d%H:%M:%S')
 pub_key = 'd14caeb1fb2188a04c30c89c3ed44406'
-priv_key = '275f19d292e0b0bd391fe9e865183083531a37b5'
+
 
 
 # will not be displayed as a view but is needed for the api_view
