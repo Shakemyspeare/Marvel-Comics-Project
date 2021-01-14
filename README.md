@@ -1,5 +1,5 @@
 # Marvel-Comics-Project
-Python LIve Project
+Python Live Project
 
 My Marvel Comics Character Database website. 
 
